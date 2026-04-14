@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Manikanta!
-👩🏻‍💻 Wannabe Software Engineer<br/>
+👩🏻‍💻 Wannabe Engineer<br/>
 👩🏻‍🎓 Studying Electronics at Jawaharlal Nehru Technological University, Hyderabad<br/>
 
 # 💻 Tech Stack:
